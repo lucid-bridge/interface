@@ -1,3 +1,3 @@
-# Somerset Bridge Interface
+# Lucid Bridge Interface
 
-An Interface for Somerset bridge.
+An Interface for Lucid bridge.
